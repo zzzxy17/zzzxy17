@@ -22,15 +22,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzzxy17&show_icons=true&theme=radium" alt="zzzxy17's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzzxy17&theme=radium" alt="zzzxy17's Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzzxy17&theme=radium" alt="zzzxy17's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzxy17&layout=compact&theme=radium" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzzxy17&theme=radium&bg_color=141824&hide_border=true" alt="zzzxy17's Activity Graph" width="100%" />
 </p>
 
 ---
